@@ -1,3 +1,3 @@
 # DiaCDM
 
-The code comes soon
+The code of DiaCDm
